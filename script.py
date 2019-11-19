@@ -1,7 +1,7 @@
 import random
 
 
-num_people_in_room = 2			#Change This Number
+num_people_in_room = 3			#Change This Number
 
 #Simulate a room with a certain number of people
 def simulate(num_people):
